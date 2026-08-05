@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Kaushani Sen. </h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFtcTd4YXJ5bzF3ODMwanJ2ZGFpNm93ZHpnYWZkOTZzMGlxeWJuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q7eOFATF0IPolyXGZf/giphy.gif" width="600" height="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MxY3dpYnh5dXpqbXIwYWZuNmk4ZnN1N25jdmF4OHdtNGxhbjI3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K6S2ZBjTiorL9m1suV/giphy.gif" width="600" height="400" />
 </p>
 
 

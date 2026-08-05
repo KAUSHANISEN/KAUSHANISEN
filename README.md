@@ -6,6 +6,6 @@
 
 - I’m currently learning AI/ML 
 - I'm adept at UI/UX designing, frontend development and Data Analytics
--  Portfolio: [Coming Soon!]
+-  Portfolio: https://portfolio-rust-ten-igugjl3x41.vercel.app/
 -  Pronouns: she/her
 
